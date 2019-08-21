@@ -27,11 +27,11 @@ const mitzi = {
 
  const kennan = {
   "id": 2,
-  "name": "Kennan",
+  "name": "Ronny",
   "email": "kdiben1@tinypic.com",
   "gender": "M",
   speak: function (){
-    return "Hello, my name is Kennan ";
+    return `Hello, my name is ${kennan.name} `;
   }
   }
 
